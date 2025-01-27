@@ -1,14 +1,11 @@
 # Hello, I'm Christian
 <a href="hwww.linkedin.com/in/christianclarkva"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I will graduate with a BS in Computer & Information Science in April of 2025. I am deeply interested in technology and dedicated to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for networking and cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or a Junior Network Engineer.
+My journey in computer science has led me to develop a passion for networking and cybersecurity, and I am now eager to transition into these fields, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or become a Junior Network Engineer.
 
 ## Skills
 
