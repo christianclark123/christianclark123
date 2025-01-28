@@ -11,12 +11,7 @@ My journey in computer science has led me to develop a passion for networking an
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory Home Lab          | <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -42,5 +37,4 @@ My journey in computer science has led me to develop a passion for networking an
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a>
