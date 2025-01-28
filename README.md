@@ -14,7 +14,11 @@ My journey in computer science has led me to develop a passion for networking an
 | Active Directory Home Lab          | <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a> |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Active Directory
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Server%20Manager-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
 
 ### Network
 <div>
