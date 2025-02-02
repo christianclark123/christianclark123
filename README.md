@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for networking an
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Home Lab          | <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a> |
-
+| Splunk Lab                         | <a href="https://github.com/christianclark123/Splunk-Lab">Splunk lab</a> |
 ## Tools
 
 ### Active Directory
@@ -42,3 +42,4 @@ My journey in computer science has led me to develop a passion for networking an
 
 ## Projects
 - <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a>
+- <a href="https://github.com/christianclark123/Splunk-Lab">Splunk lab</a>
