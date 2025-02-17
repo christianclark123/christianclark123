@@ -13,11 +13,17 @@ My journey in computer science has led me to develop a passion for networking an
 |-----------------------------------------------|----------------------------|
 | Active Directory Home Lab          | <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a> |
 | Splunk Lab                         | <a href="https://github.com/christianclark123/Splunk-Lab">Splunk lab</a> |
+| SOAR-EDR Lab                       | <a href="https://github.com/christianclark123/SOAR-EDR-Lab">SOAR-EDR Lab</a> |
 ## Tools
 
 ### Active Directory
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Server%20Manager-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
+### Security Orchestration, Automation, Response (SOAR)
+<div>
+    <img src="https://img.shields.io/badge/-Tines-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### Network
@@ -28,6 +34,9 @@ My journey in computer science has led me to develop a passion for networking an
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+<div>
+    <img src="https://img.shields.io/badge/-LimaCharlie-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
@@ -43,3 +52,4 @@ My journey in computer science has led me to develop a passion for networking an
 ## Projects
 - <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a>
 - <a href="https://github.com/christianclark123/Splunk-Lab">Splunk lab</a>
+- <a href="https://github.com/christianclark123/SOAR-EDR-Lab">SOAR-EDR Lab</a>
