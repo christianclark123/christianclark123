@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for networking an
 | Active Directory Home Lab          | <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a> |
 | Splunk Lab                         | <a href="https://github.com/christianclark123/Splunk-Lab">Splunk lab</a> |
 | SOAR-EDR Lab                       | <a href="https://github.com/christianclark123/SOAR-EDR-Lab">SOAR-EDR Lab</a> |
+| Nessus-Vulnerability-Scan (In Progress)          | <a href="https://github.com/christianclark123/Nessus-Vulnerability-Scan">Nessus-Vulnerability-Scan</a> |
 ## Tools
 
 ### Active Directory
@@ -24,6 +25,11 @@ My journey in computer science has led me to develop a passion for networking an
 ### Security Orchestration, Automation, Response (SOAR)
 <div>
     <img src="https://img.shields.io/badge/-Tines-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Vulnerability Scanner
+<div>
+        <img src="https://img.shields.io/badge/-Nessus-0096A0?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ### Network
@@ -53,3 +59,4 @@ My journey in computer science has led me to develop a passion for networking an
 - <a href="https://github.com/christianclark123/Active-Directory/tree/main">Active Directory Home Lab </a>
 - <a href="https://github.com/christianclark123/Splunk-Lab">Splunk lab</a>
 - <a href="https://github.com/christianclark123/SOAR-EDR-Lab">SOAR-EDR Lab</a>
+- <a href="https://github.com/christianclark123/Nessus-Vulnerability-Scan">Nessus-Vulnerability-Scan</a>
